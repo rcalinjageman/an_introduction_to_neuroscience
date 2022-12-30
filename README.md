@@ -1,2 +1,3 @@
-# an_introduction_to_neuroscience
-This is a chapter from a forthcoming free, open-access Introduction to Neuroscience textbook.
+[![Build Status](https://travis-ci.com/rstudio/bookdown-demo.svg?branch=master)](https://travis-ci.com/rstudio/bookdown-demo)
+
+An introduction to neuroscience textbook.
