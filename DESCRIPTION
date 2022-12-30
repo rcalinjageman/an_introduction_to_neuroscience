@@ -1,0 +1,6 @@
+Package: AItN
+Type: Book
+Title: An introduction to neuroscience.
+Version: 0.0.1
+Imports: bookdown
+Remotes: rstudio/bookdown

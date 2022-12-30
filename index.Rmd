@@ -1,0 +1,19 @@
+--- 
+title: "An Introduction to Neuroscience"
+author: "Robert J Calin-Jageman and others"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: rcalinjageman/an_introduction_to_neuroscience
+description: "This is a free, open-source Introduction to Textbook for undergraduate coursework.  Chapter 2 is in draft form; more chapters to come."
+---
+
+# Introduction
+
+This is a free, open-source, peer-reviewed, high-quality Introduction to Neuroscience textbook... or it soon will be.
+
+At this stage, I have only Chapter \@ref(neurophysiology) (Neurophysiology) posted in draft form.  More to come!
