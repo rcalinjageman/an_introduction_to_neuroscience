@@ -16,4 +16,8 @@ description: "This is a free, open-source Introduction to Textbook for undergrad
 
 This is a free, open-source, peer-reviewed, high-quality Introduction to Neuroscience textbook... or it soon will be.
 
-At this stage, I have only Chapter \@ref(neurophysiology) (Neurophysiology) posted in draft form.  More to come!
+At this stage, I have only Chapter \@ref(neurophysiology) Neurophysiology  posted in draft form.  More to come!
+
+- Online version: https://rcalinjageman.github.io/an_introduction_to_neuroscience/
+- Pdf: 
+- epub: 
