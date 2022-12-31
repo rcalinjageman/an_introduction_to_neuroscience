@@ -1,3 +1,8 @@
-[![Build Status](https://travis-ci.com/rstudio/bookdown-demo.svg?branch=master)](https://travis-ci.com/rstudio/bookdown-demo)
+== An introduction to neuroscience textbook.
 
-An introduction to neuroscience textbook.
+This is an open-source, open-access online Introduction to Neuroscience textbook.  
+
+
+=== Status
+
+* Working on getting draft of Chapter 02 posted
