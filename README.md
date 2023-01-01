@@ -1,4 +1,4 @@
-== An introduction to neuroscience textbook.
+## An introduction to neuroscience textbook.
 
 This is an early draft of a chapter from a new Introduction to Neuroscience textbook, an effort that is:
 
@@ -30,12 +30,12 @@ You can access early-stage draft in three different formats:
 
 - [Online, in HTML](https://rcalinjageman.github.io/an_introduction_to_neuroscience/)
 
-- [Pdf](https://rcalinjageman.github.io/an_introduction_to_neuroscience/docs/Intro_to_Neuroscience.pdf)
+- [Pdf](https://github.com/rcalinjageman/an_introduction_to_neuroscience/raw/main/docs/Intro_to_Neuroscience.pdf)
 
-- [epub](https://rcalinjageman.github.io/an_introduction_to_neuroscience/docs/Intro_to_Neuroscience.epub)
+- [epub](https://github.com/rcalinjageman/an_introduction_to_neuroscience/raw/main/docs/Intro_to_Neuroscience.epub)
 
 
-=== Status
+## Status
 
 - A draft of Chapter 02 is now posted
 
