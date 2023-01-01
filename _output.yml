@@ -1,13 +1,37 @@
 bookdown::gitbook:
   css: style.css
+  fig_caption: yes
+  number_sections: yes
   config:
     toc:
       before: |
         <li><a href="./">An Introduction to Neuroscience</a></li>
-      after: |
-        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/rstudio/bookdown-demo/edit/master/%s
+      after: null
+      scroll_highlight: true
+    toolbar:
+      position: fixed
+    edit: null
     download: ["pdf", "epub"]
+    search:
+      engine: lunr # or fuse
+      # options to control/tune search engine behavior (for
+      # fuse.js, refer to https://fusejs.io/api/options.html)
+      options: null
+    fontsettings:
+      theme: white
+      family: sans
+      size: 2
+    sharing:
+      facebook: true
+      github: false
+      twitter: true
+      linkedin: false
+      weibo: false
+      instapaper: false
+      vk: false
+      whatsapp: false
+      all: ['facebook', 'twitter', 'linkedin', 'weibo', 'instapaper']
+    info: true
 bookdown::pdf_book:
   includes:
     in_header: preamble.tex

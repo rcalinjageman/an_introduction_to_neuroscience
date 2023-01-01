@@ -1,6 +1,14 @@
-book_filename: "bookdown-demo"
+book_filename: "Intro_to_Neuroscience"
+repo: https://github.com/rcalinjageman/an_introduction_to_neuroscience
 language:
   ui:
     chapter_name: "Chapter "
+    fig: "Image "
+    tab: "Table "
+  label:
+    fig: "Image "
+    tab: "Table "
 delete_merged_file: true
 output_dir: "docs"
+fig_caption: yes
+number_sections: yes
