@@ -12,7 +12,15 @@ This is an early draft of a chapter from a new Introduction to Neuroscience text
 
 ***
 
-This textbook is edited by [Elizabeth Kirby](https://u.osu.edu/kirbylab/), PhD and supported by funding from the [National Science Foundation](https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=elizabeth+kirby&ActiveAwards=true)
+This textbook is edited by
+
+- [Elizabeth Kirby](https://u.osu.edu/kirbylab/), PhD 
+- [Melissa J. Glenn](https://web.colby.edu/mjglenn/about-me/), PhD
+- [Noah J. Sandstrom](https://psychology.williams.edu/profile/nsandstr/), PhD and
+- [Christina L. Williams, CL](https://scholars.duke.edu/person/williams)
+
+
+and supported by funding from the [National Science Foundation](https://www.nsf.gov/awardsearch/simpleSearchResult?queryText=elizabeth+kirby&ActiveAwards=true)
 
 
 This early preview of the book is posted by [Bob Calin-Jageman](https://calin-jageman.net/lab/), an author Chapter (\@ref(neurophysiology) on neurophysiology.  The purpose of posting this early-stage chapter here is:

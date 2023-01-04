@@ -1,6 +1,10 @@
 # Neurophysiology {#neurophysiology} 
 
-This chapter authored by Robert J Calin-Jageman.  Send feedback by submitting an issue on github:  https://github.com/rcalinjageman/an_introduction_to_neuroscience/issues
+This chapter authored by Robert J Calin-Jageman.  
+
+
+Send feedback by submitting an issue on github:  https://github.com/rcalinjageman/an_introduction_to_neuroscience/issues
+
 
 ## Introduction  {#neurophysiology-introduction} 
 Mary is visiting the office of Dr. Alfredo Quinones-Hinojosa, a neuroscientist, physician, and neurosurgeon who is known affectionately by his patients as “Dr. Q”.  Unfortunately, it is not a happy visit—Mary has been diagnosed with a glioma, a tumor caused by runaway cell division among the glial cells in her brain.  Her first sign that something was wrong was a seizure, an episode of tremoring and muscle rigidity that left Mary exhausted and frightened.  Now brain scans have revealed a glioma. 
